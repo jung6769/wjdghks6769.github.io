@@ -18,7 +18,8 @@
  *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
  *  MA 02110-1301, USA.
  */
-
+/*clamconf는 구성 옵션의 값을 표시한다.
+*/
 #if HAVE_CONFIG_H
 #include "clamav-config.h"
 #endif
